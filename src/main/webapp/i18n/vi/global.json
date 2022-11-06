@@ -140,5 +140,5 @@
       "not.image": "File was expected to be an image but was found to be \"{{ fileType }}\""
     }
   },
-  "footer": "Đây là chân trang của bạn"
+  "footer": "VShop được phát triển bởi Trần Công Hoàng"
 }
