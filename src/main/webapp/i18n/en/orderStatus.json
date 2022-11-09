@@ -1,0 +1,12 @@
+{
+  "vshopApp": {
+    "OrderStatus": {
+      "null": "",
+      "COMPLETED": "COMPLETED",
+      "PAID": "PAID",
+      "PENDING": "PENDING",
+      "CANCELLED": "CANCELLED",
+      "REFUNDED": "REFUNDED"
+    }
+  }
+}

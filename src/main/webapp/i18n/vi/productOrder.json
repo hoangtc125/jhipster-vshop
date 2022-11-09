@@ -1,0 +1,27 @@
+{
+  "vshopApp": {
+    "productOrder": {
+      "home": {
+        "title": "Product Orders",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Thêm mới một Product Order",
+        "createOrEditLabel": "Thêm mới hoặc cập nhật Product Order",
+        "notFound": "No Product Orders found"
+      },
+      "created": "Một Product Order mới được tạo với định danh {{ param }}",
+      "updated": "Một Product Order cập nhật với định danh {{ param }}",
+      "deleted": "Một Product Order đã xóa với định danh {{ param }}",
+      "delete": {
+        "question": "Bạn có chắc là muốn xóa Product Order {{ id }}?"
+      },
+      "detail": {
+        "title": "Product Order"
+      },
+      "id": "ID",
+      "quantity": "Quantity",
+      "totalPrice": "Total Price",
+      "product": "Product",
+      "cart": "Cart"
+    }
+  }
+}

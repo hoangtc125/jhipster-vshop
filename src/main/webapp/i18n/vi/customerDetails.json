@@ -1,0 +1,31 @@
+{
+  "vshopApp": {
+    "customerDetails": {
+      "home": {
+        "title": "Customer Details",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Thêm mới một Customer Details",
+        "createOrEditLabel": "Thêm mới hoặc cập nhật Customer Details",
+        "notFound": "No Customer Details found"
+      },
+      "created": "Một Customer Details mới được tạo với định danh {{ param }}",
+      "updated": "Một Customer Details cập nhật với định danh {{ param }}",
+      "deleted": "Một Customer Details đã xóa với định danh {{ param }}",
+      "delete": {
+        "question": "Bạn có chắc là muốn xóa Customer Details {{ id }}?"
+      },
+      "detail": {
+        "title": "Customer Details"
+      },
+      "id": "ID",
+      "gender": "Gender",
+      "phone": "Phone",
+      "addressLine1": "Address Line 1",
+      "addressLine2": "Address Line 2",
+      "city": "City",
+      "country": "Country",
+      "user": "User",
+      "cart": "Cart"
+    }
+  }
+}

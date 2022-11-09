@@ -1,0 +1,30 @@
+{
+  "vshopApp": {
+    "shoppingCart": {
+      "home": {
+        "title": "Shopping Carts",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Thêm mới một Shopping Cart",
+        "createOrEditLabel": "Thêm mới hoặc cập nhật Shopping Cart",
+        "notFound": "No Shopping Carts found"
+      },
+      "created": "Một Shopping Cart mới được tạo với định danh {{ param }}",
+      "updated": "Một Shopping Cart cập nhật với định danh {{ param }}",
+      "deleted": "Một Shopping Cart đã xóa với định danh {{ param }}",
+      "delete": {
+        "question": "Bạn có chắc là muốn xóa Shopping Cart {{ id }}?"
+      },
+      "detail": {
+        "title": "Shopping Cart"
+      },
+      "id": "ID",
+      "placedDate": "Placed Date",
+      "status": "Status",
+      "totalPrice": "Total Price",
+      "paymentMethod": "Payment Method",
+      "paymentReference": "Payment Reference",
+      "order": "Order",
+      "customerDetails": "Customer Details"
+    }
+  }
+}
